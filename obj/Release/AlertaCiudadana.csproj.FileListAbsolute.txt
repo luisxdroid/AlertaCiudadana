@@ -1,0 +1,48 @@
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Imagenes\Boton\Contact.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\AppManifest.xaml
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana_Release_AnyCPU.xap
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\App.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\Contactos.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\Legal.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\MainPage.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\Page1.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\Simbolos.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.g.resources
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Release\XapCacheFile.xml
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Imagenes\Boton\Contact.png
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana.dll
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana.pdb
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\AppManifest.xaml
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\Bin\Release\AlertaCiudadana_Release_AnyCPU.xap
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\App.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\Contactos.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\Legal.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\MainPage.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\Page1.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\Simbolos.g.cs
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.g.resources
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.dll
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\AlertaCiudadana.pdb
+C:\Users\Javier\Downloads\Nueva carpeta88\Nueva carpeta88\AlertaCiudadana\obj\Release\XapCacheFile.xml

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Recoleta</Comuna>
+    <Fono>77480863</Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Independencia</Comuna>
+    <Fono>52119464</Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Huechuraba</Comuna>
+    <Fono></Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Quinta Normal</Comuna>
+    <Fono></Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>La Florida</Comuna>
+    <Fono></Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Santiago</Comuna>
+    <Fono>0226394390</Fono>
+  </plan>
+  <plan>
+    <Tipo>cuadrante</Tipo>
+    <Comuna>Providencia</Comuna>
+    <Fono></Fono>
+  </plan>
+</root>

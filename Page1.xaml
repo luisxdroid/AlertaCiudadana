@@ -1,0 +1,41 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:maps="clr-namespace:Microsoft.Phone.Maps.Controls;assembly=Microsoft.Phone.Maps"
+    x:Class="AlertaCiudadana.Page1"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+
+        <maps:Map Name="myMapa" HorizontalAlignment="Left" Margin="0,0,0,-70" VerticalAlignment="Top" Height="798" Width="480"/>
+        <StackPanel  Background="#CC555353"  Height="118" VerticalAlignment="Top">
+            <TextBlock Text="Alerta Ciudadana" Margin="78,10,35,0" FontSize="40" FontFamily="Century Gothic" Width="367" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+        </StackPanel>
+        <TextBlock Name="ubicacion" HorizontalAlignment="Center" Margin="0,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Esperando ubicacion..." Height="55" Width="480" TextAlignment="Center">
+            <TextBlock.Foreground>
+                <SolidColorBrush Color="{StaticResource PhoneButtonBasePressedForegroundColor}"/>
+            </TextBlock.Foreground>
+        </TextBlock>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar   IsVisible="True" IsMenuEnabled="True" BackgroundColor="#CC555353" ForegroundColor="White" >
+            <shell:ApplicationBarIconButton Click="btnLlamar_Click"  Text="133" IconUri="/Imagenes/Boton/133.png" />
+            <shell:ApplicationBarIconButton Click="btnPlanCuadrante_Click"  Text="Plan Cuadrante" IconUri="/Imagenes/Boton/plan.png" />
+            <shell:ApplicationBarIconButton Click="btnReCalcular_Click"  Text="ReCalcular" IconUri="/Imagenes/Boton/reCalc.png" />
+            <shell:ApplicationBarIconButton Click="btnAyuda_Click"  Text="Simbolos" IconUri="/Imagenes/Boton/Help2.png"/>
+        </shell:ApplicationBar>
+
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

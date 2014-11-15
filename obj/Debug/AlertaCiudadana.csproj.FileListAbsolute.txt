@@ -1,0 +1,107 @@
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\AlertaCiudadana.dll
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\AlertaCiudadana.pdb
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\AppManifest.xaml
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\Bin\Debug\AlertaCiudadana_Debug_AnyCPU.xap
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\App.g.cs
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\MainPage.g.cs
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\AlertaCiudadana.g.resources
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\AlertaCiudadana.Resources.AppResources.resources
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\AlertaCiudadana.csproj.GenerateResource.Cache
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\AlertaCiudadana.dll
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\AlertaCiudadana.pdb
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\XapCacheFile.xml
+c:\users\luisantonio\documents\visual studio 2013\Projects\AlertaCiudadana\AlertaCiudadana\obj\Debug\Page1.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\AlertaCiudadana.dll
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\AlertaCiudadana.pdb
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\AppManifest.xaml
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\Bin\Debug\AlertaCiudadana_Debug_AnyCPU.xap
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\App.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\MainPage.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\Page1.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\AlertaCiudadana.g.resources
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\AlertaCiudadana.dll
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\AlertaCiudadana.pdb
+C:\Users\Jarek\Desktop\Nueva carpeta (2)\AlertaCiudadana\obj\Debug\XapCacheFile.xml
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\AppManifest.xaml
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\Bin\Debug\AlertaCiudadana_Debug_AnyCPU.xap
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\App.g.cs
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\MainPage.g.cs
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\Page1.g.cs
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\AlertaCiudadana.g.resources
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\proyecto\proyecto\AlertaCiudadana\obj\Debug\XapCacheFile.xml
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\AlertaCiudadana.dll
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\AlertaCiudadana.pdb
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\AppManifest.xaml
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\AlertaCiudadana_Debug_AnyCPU.xap
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\App.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\MainPage.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\Page1.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\AlertaCiudadana.g.resources
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\AlertaCiudadana.dll
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\AlertaCiudadana.pdb
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\XapCacheFile.xml
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\obj\Debug\Contactos.g.cs
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Imagenes\Boton\Contact.png
+C:\Users\Jarek\Desktop\Nueva carpeta\AlertaCiudadana\Bin\Debug\Imagenes\Boton\Hotline.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Imagenes\Boton\Contact.png
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\AppManifest.xaml
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\Bin\Debug\AlertaCiudadana_Debug_AnyCPU.xap
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\App.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\Contactos.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\MainPage.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\Page1.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\AlertaCiudadana.g.resources
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\AlertaCiudadana.Resources.AppResources.resources
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\AlertaCiudadana.csproj.GenerateResource.Cache
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\AlertaCiudadana.dll
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\AlertaCiudadana.pdb
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\XapCacheFile.xml
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\Legal.g.cs
+C:\Users\LuisAntonio\Downloads\Nueva carpeta88 (1)\Nueva carpeta88\AlertaCiudadana\obj\Debug\Simbolos.g.cs

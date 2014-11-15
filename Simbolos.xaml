@@ -1,0 +1,48 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AlertaCiudadana.Simbolos"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Black">
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="0,0,0,0">
+            <TextBlock Foreground="White" Text="Alerta Ciudadana"  Margin="20,20,0,20" FontSize="40" FontFamily="Century Gothic" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional-->
+        <Grid x:Name="ContentPanel" Margin="10,0,14,0">
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,185,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/infoLegal.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,250,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/Hotline2.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,120,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/Contact2.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,310,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/logoCarabineros.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,375,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/133.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,440,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/plan.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,505,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/reCalc.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,565,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/Help2.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,630,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/myPoss2.png"/>
+            <Image HorizontalAlignment="Left" Height="60" Margin="52,690,0,0" VerticalAlignment="Top" Width="60" Source="/Imagenes/Boton/logoCarabineros.png"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,127,0,0" TextWrapping="Wrap" Text="Muestra sus contactos. Mandará mensajes a quien seleccione." VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,201,0,0" TextWrapping="Wrap" Text="Términos de Uso" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,250,0,0" TextWrapping="Wrap" Text="Envía mensaje de alerta sin geolocalización." VerticalAlignment="Top" RenderTransformOrigin="1.133,0.369"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,310,0,0" TextWrapping="Wrap" Text="Abre la Geolocalización y las opciones avanzadas de la Alerta Ciudadana." VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,375,0,0" TextWrapping="Wrap" Text="Llamar a la Central de Carabineros, 133." VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,447,0,0" TextWrapping="Wrap" Text="Llamar a Plan Cuadrante correspondiente a su ubicación." VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,524,0,0" TextWrapping="Wrap" Text="Recalcular Ubicación" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,582,0,0" TextWrapping="Wrap" Text="Simbología" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="117,646,0,0" TextWrapping="Wrap" Text="Señala mi ubicación." VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="112,690,0,0" TextWrapping="Wrap" Text="Muestra Comisarias cercanas indicando su dirección y dando posibilidad de llamar." VerticalAlignment="Top"/>
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

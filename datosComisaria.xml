@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Root>
+	<comisaria>
+		<Id>1</Id>
+		<Tipo>carabinero</Tipo>
+		<Nombre>1ra Comisaria de Santiago</Nombre>
+		<Direccion>Santo Domingo 714</Direccion>
+    <Fono>0226331111</Fono>
+		<corX>-33.435822</corX>
+		<corY>-70.647496</corY>
+	</comisaria>
+	<comisaria>
+		<Id>2</Id>
+		<Tipo>carabinero</Tipo>
+		<Nombre>2da Comisaria de Santiago</Nombre>
+		<Direccion>Toesca 2245</Direccion>
+    <Fono>0226891001</Fono>
+		<corX>-33.454334</corX>
+		<corY>-70.666158</corY>
+	</comisaria>
+  <comisaria>
+    <Id>3</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>3ra Comisaría Santiago</Nombre>
+    <Direccion>Pasaje Fernández Albano Nº 165</Direccion>
+    <Fono>0226983525</Fono>
+    <corX>-33.550173</corX>
+    <corY>-70.651743</corY>
+  </comisaria>
+  <comisaria>
+    <Id>4</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>4ta Comisaría Santiago</Nombre>
+    <Direccion>Chiloé Nº 1472</Direccion>
+    <Fono>0225558533</Fono>
+    <corX>-33.465472</corX>
+    <corY>-70.645711</corY>
+  </comisaria>
+  <comisaria>
+    <Id>5</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>32a. Comisaría Tránsito</Nombre>
+    <Direccion>Santo Domingo Nº 1180</Direccion>
+    <Fono>0226956383</Fono>
+    <corX>-33.436485</corX>
+    <corY>-70.653906</corY>
+  </comisaria>
+  <comisaria>
+    <Id>6</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>Subcomisaría Motorizada</Nombre>
+    <Direccion>Carrión Nº c1795</Direccion>
+    <Fono>0227375071</Fono>
+    <corX>-33.419173</corX>
+    <corY>-70.661795</corY>
+  </comisaria>
+  <comisaria>
+    <Id>7</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>Tenencia Metro Baquedano</Nombre>
+    <Direccion>Metro Estación Baquedano</Direccion>
+    <Fono>0222503244</Fono>
+    <corX>-33.437372</corX>
+    <corY>-70.633452</corY>
+  </comisaria>
+  <comisaria>
+    <Id>8</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>5a. Comisaría Conchalí</Nombre>
+    <Direccion>Avda. Hipódromo Chile 1025</Direccion>
+    <Fono>0227376094</Fono>
+    <corX>-33.393356</corX>
+    <corY>-70.666336</corY>
+  </comisaria>
+  <comisaria>
+    <Id>9</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>6a. Comisaría Recoleta</Nombre>
+    <Direccion>Gavilán 1980</Direccion>
+    <Fono>0226218855</Fono>
+    <corX>-33.409098</corX>
+    <corY>-70.641838</corY>
+  </comisaria>
+  <comisaria>
+    <Id>10</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>7a. Comisaría Renca</Nombre>
+    <Direccion>Blanco Encalada 79</Direccion>
+    <Fono>0226412407</Fono>
+    <corX>-33.370281</corX>
+    <corY>-70.737566</corY>
+  </comisaria>
+  <comisaria>
+    <Id>10</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>7a. Comisaría Renca</Nombre>
+    <Direccion>Blanco Encalada 79</Direccion>
+    <Fono>0226412407</Fono>
+    <corX>-33.370281</corX>
+    <corY>-70.737566</corY>
+  </comisaria>
+  <comisaria>
+    <Id>11</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>8a. Comisaría Colina</Nombre>
+    <Direccion>Carretera General San Martín, Km. 28</Direccion>
+    <Fono>0228441421</Fono>
+    <corX>-33.217637</corX>
+    <corY>-70.676291</corY>
+  </comisaria>
+  <comisaria>
+    <Id>12</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>9a. Comisaría Independencia</Nombre>
+    <Direccion>Av. Dávila Baeza 880</Direccion>
+    <Fono>0227374011</Fono>
+    <corX>-33.427312</corX>
+    <corY>-70.651147</corY>
+  </comisaria>
+  <comisaria>
+    <Id>13</Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>54a. Comisaría Huechuraba</Nombre>
+    <Direccion>Av. Recoleta Nº 5560</Direccion>
+    <Fono>0226251924</Fono>
+    <corX>-33.375977</corX>
+    <corY>-70.637549</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>21a. Comisaría Estación Central</Nombre>
+    <Direccion>Avda. Ecuador Nº 4050</Direccion>
+    <Fono>0227794934</Fono>
+    <corX>-33.451644</corX>
+    <corY>-70.692363</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>22a. Comisaría Quinta Normal</Nombre>
+    <Direccion>Santo Domingo Nº 4390</Direccion>
+    <Fono>0227731039</Fono>
+    <corX>-33.439883</corX>
+    <corY>-70.694346</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>23a. Comisaría Talagante</Nombre>
+    <Direccion>San Francisco Nº 875</Direccion>
+    <Fono>0228151528</Fono>
+    <corX>-33.669645</corX>
+    <corY>-70.939026</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>24a. Comisaría Melipilla</Nombre>
+    <Direccion>Ortúzar Nº 675</Direccion>
+    <Fono>0228323434</Fono>
+    <corX>-33.688032</corX>
+    <corY>-71.215412</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>25a. Comisaría Maipú</Nombre>
+    <Direccion>Bailen Nº 2185 </Direccion>
+    <Fono>0225312223</Fono>
+    <corX>-33.507772</corX>
+    <corY>-70.754952</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>26a. Comisaría Pudahuel</Nombre>
+    <Direccion>Teniente Cruz Nº 710</Direccion>
+    <Fono>0226433651</Fono>
+    <corX>-33.447809</corX>
+    <corY>-70.739490</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>27a. Comisaría Aeropuerto Internacional </Nombre>
+    <Direccion>Av. Armando Cortinez Nº 1761 </Direccion>
+    <Fono>0226019149</Fono>
+    <corX>-33.397451</corX>
+    <corY>-70.792160</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>44a. Comisaría Lo Prado</Nombre>
+    <Direccion>San Pablo Nº 5829</Direccion>
+    <Fono>0227754939</Fono>
+    <corX>-33.443282</corX>
+    <corY>-70.715757</corY>
+  </comisaria>
+  <comisaria>
+    <Id></Id>
+    <Tipo>carabinero</Tipo>
+    <Nombre>45a. Comisaría Cerro Navia</Nombre>
+    <Direccion>Los Conquistadores Nº 7350</Direccion>
+    <Fono>0226437090</Fono>
+    <corX>-33.443282</corX>
+    <corY>-70.715757</corY>
+  </comisaria>
+</Root>
